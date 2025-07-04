@@ -21,27 +21,27 @@ A simple yet powerful **Flashcard Quiz App** built using **React Native** and **
 
 ### 🏠 Home / Deck List
 
-![Deck List](./screenshots/Home.jpg)
+<img src="./screenshots/Home.jpg" alt="Deck List" width="400"/>
 
 ### 📂 Deck Details Screen
 
-![Deck Details](./screenshots/Deck_Detail.jpg)
+<img src="./screenshots/Deck_Detail.jpg" alt="Deck Details" width="400"/>
 
 ### ➕ Add Flashcard
 
-![Add Card](./screenshots/Add_card.jpg)
+<img src="./screenshots/Add_card.jpg" alt="Add Card" width="400"/>
 
 ### 🔄 Show Answer Toggle
 
-![Answer Reveal](./screenshots/card_Answers.jpg)
+<img src="./screenshots/card_Answers.jpg" alt="Answer Reveal" width="400"/>
 
 ### 🧠 Quiz Start Screen
 
-![Start Quiz](./screenshots/Quiz.jpg)
+<img src="./screenshots/Quiz.jpg" alt="Start Quiz" width="400"/>
 
 ### ✅ Quiz Result
 
-![Result](./screenshots/Result.jpg)
+<img src="./screenshots/Result.jpg" alt="Result" width="400"/>
 
 ---
 
